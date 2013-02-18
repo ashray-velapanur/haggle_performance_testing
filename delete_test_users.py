@@ -11,7 +11,8 @@ url = 'https://graph.facebook.com/' + client_id + '/accounts/test-users?' + acce
 def delete_users(url):
     response = json.loads(urllib.urlopen(url).read())
     for user in response['data']:
-        urllib.urlopen('https://graph.facebook.com/' + user['id'] '?method=delete' + access_token)
+        print user['id']
+        urllib.urlopen('https://graph.facebook.com/' + user['id'] + '?method=delete&' + access_token)
     if 'paging' in response and 'next' in response['paging']:
         delete_users(response['paging']['next'])
         
