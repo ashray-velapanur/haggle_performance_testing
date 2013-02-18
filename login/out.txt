@@ -1,0 +1,180 @@
+Server Software:        Google
+Server Hostname:        haggle-test1.appspot.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1/SSLv3,RC4-SHA,1024,128
+
+Document Path:          /users/login
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   370.912 seconds
+Complete requests:      200
+Failed requests:        200
+   (Connect: 0, Receive: 0, Length: 200, Exceptions: 0)
+Write errors:           0
+Total transferred:      44200 bytes
+Total POSTed:           31780668
+HTML transferred:       12000 bytes
+Requests per second:    0.54 [#/sec] (mean)
+Time per request:       1854.561 [ms] (mean)
+Time per request:       1854.561 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.12 [Kbytes/sec] received
+                        83.67 kb/s sent
+                        83.79 kb/s total
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      558 1752 543.6   1764    5484
+Processing:     0  103 151.4     36    1309
+Waiting:        0  102 151.3     33    1309
+Total:        799 1854 557.3   1858    5822
+
+Percentage of the requests served within a certain time (ms)
+  50%   1858
+  66%   1995
+  75%   2126
+  80%   2195
+  90%   2319
+  95%   2726
+  98%   3253
+  99%   3707
+ 100%   5822 (longest request)
+
+
+
+
+
+Server Software:        Google
+Server Hostname:        haggle-test1.appspot.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1/SSLv3,RC4-SHA,1024,128
+
+Document Path:          /users/login
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   373.892 seconds
+Complete requests:      200
+Failed requests:        200
+   (Connect: 0, Receive: 0, Length: 200, Exceptions: 0)
+Write errors:           0
+Total transferred:      44200 bytes
+Total POSTed:           32686064
+HTML transferred:       12000 bytes
+Requests per second:    0.53 [#/sec] (mean)
+Time per request:       1869.461 [ms] (mean)
+Time per request:       1869.461 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.12 [Kbytes/sec] received
+                        85.37 kb/s sent
+                        85.49 kb/s total
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      700 1780 481.1   1777    3407
+Processing:     0   89 215.0     24    2438
+Waiting:        0   88 215.0     22    2437
+Total:        776 1869 560.9   1829    5844
+
+Percentage of the requests served within a certain time (ms)
+  50%   1829
+  66%   2014
+  75%   2151
+  80%   2216
+  90%   2366
+  95%   2628
+  98%   3317
+  99%   3872
+ 100%   5844 (longest request)
+
+
+
+
+
+Server Software:        Google
+Server Hostname:        haggle-test1.appspot.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1/SSLv3,RC4-SHA,1024,128
+
+Document Path:          /users/login
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   377.212 seconds
+Complete requests:      200
+Failed requests:        200
+   (Connect: 0, Receive: 0, Length: 200, Exceptions: 0)
+Write errors:           0
+Total transferred:      44200 bytes
+Total POSTed:           60400
+HTML transferred:       12000 bytes
+Requests per second:    0.53 [#/sec] (mean)
+Time per request:       1886.058 [ms] (mean)
+Time per request:       1886.058 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.11 [Kbytes/sec] received
+                        0.16 kb/s sent
+                        0.27 kb/s total
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      273 1127 411.2   1127    1923
+Processing:   362  759 497.3    649    5228
+Waiting:      361  758 497.3    648    5227
+Total:        637 1886 601.8   1861    6031
+
+Percentage of the requests served within a certain time (ms)
+  50%   1861
+  66%   2077
+  75%   2190
+  80%   2239
+  90%   2511
+  95%   2754
+  98%   3482
+  99%   4036
+ 100%   6031 (longest request)
+
+
+
+
+
+Server Software:        Google
+Server Hostname:        haggle-test1.appspot.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1/SSLv3,RC4-SHA,1024,128
+
+Document Path:          /users/login
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   379.977 seconds
+Complete requests:      200
+Failed requests:        200
+   (Connect: 0, Receive: 0, Length: 200, Exceptions: 0)
+Write errors:           0
+Total transferred:      44200 bytes
+Total POSTed:           60400
+HTML transferred:       12000 bytes
+Requests per second:    0.53 [#/sec] (mean)
+Time per request:       1899.884 [ms] (mean)
+Time per request:       1899.884 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.11 [Kbytes/sec] received
+                        0.16 kb/s sent
+                        0.27 kb/s total
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      280 1145 416.8   1176    1978
+Processing:   364  755 524.3    632    5018
+Waiting:      364  754 524.3    632    5018
+Total:        691 1900 650.8   1874    5804
+
+Percentage of the requests served within a certain time (ms)
+  50%   1874
+  66%   2070
+  75%   2178
+  80%   2311
+  90%   2555
+  95%   3016
+  98%   3616
+  99%   4413
+ 100%   5804 (longest request)
+
