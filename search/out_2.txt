@@ -1,0 +1,231 @@
+Server Software:        Google
+Server Hostname:        www.haggle-test1.appspot.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1/SSLv3,RC4-SHA,1024,128
+
+Document Path:          /api/vendors/search
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   587.747 seconds
+Complete requests:      200
+Failed requests:        200
+   (Connect: 0, Receive: 0, Length: 200, Exceptions: 0)
+Write errors:           0
+Total transferred:      1348200 bytes
+HTML transferred:       1316000 bytes
+Requests per second:    0.34 [#/sec] (mean)
+Time per request:       2938.733 [ms] (mean)
+Time per request:       2938.733 [ms] (mean, across all concurrent requests)
+Transfer rate:          2.24 [Kbytes/sec] received
+SSL read failed - closing connection
+SSL read failed - closing connection
+SSL read failed - closing connection
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      957 2838 860.9   2699    7011
+Processing:     0   99 152.1     19     867
+Waiting:        0   83 140.9      4     638
+Total:       1282 2938 863.2   2838    7026
+
+Percentage of the requests served within a certain time (ms)
+  50%   2838
+  66%   3140
+  75%   3352
+  80%   3537
+  90%   4013
+  95%   4642
+  98%   5079
+  99%   6500
+ 100%   7026 (longest request)
+
+
+
+
+
+
+
+
+Server Software:        Google
+Server Hostname:        www.haggle-test1.appspot.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1/SSLv3,RC4-SHA,1024,128
+
+Document Path:          /api/vendors/search
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   598.813 seconds
+Complete requests:      200
+Failed requests:        200
+   (Connect: 0, Receive: 0, Length: 200, Exceptions: 0)
+Write errors:           0
+Total transferred:      1271921 bytes
+HTML transferred:       1239721 bytes
+Requests per second:    0.33 [#/sec] (mean)
+Time per request:       2994.066 [ms] (mean)
+Time per request:       2994.066 [ms] (mean, across all concurrent requests)
+Transfer rate:          2.07 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:     1090 2907 893.1   2817    7172
+Processing:     0   86 136.3     17     975
+Waiting:        0   67 122.7      4     740
+Total:       1154 2993 908.4   2895    7251
+
+Percentage of the requests served within a certain time (ms)
+  50%   2895
+  66%   3183
+  75%   3342
+  80%   3504
+  90%   4119
+  95%   4587
+  98%   6194
+  99%   6632
+ 100%   7251 (longest request)
+
+
+
+
+
+
+
+
+
+
+Server Software:        Google
+Server Hostname:        www.haggle-test1.appspot.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1/SSLv3,RC4-SHA,1024,128
+
+Document Path:          /api/vendors/search
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   599.223 seconds
+Complete requests:      200
+Failed requests:        200
+   (Connect: 0, Receive: 0, Length: 200, Exceptions: 0)
+Write errors:           0
+Total transferred:      1233400 bytes
+HTML transferred:       1201200 bytes
+Requests per second:    0.33 [#/sec] (mean)
+Time per request:       2996.115 [ms] (mean)
+Time per request:       2996.115 [ms] (mean, across all concurrent requests)
+Transfer rate:          2.01 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      586 1476 545.4   1437    4630
+Processing:   520 1519 825.2   1376    9748
+Waiting:      511 1437 557.1   1346    3951
+Total:       1404 2995 1021.3   2859   11806
+
+Percentage of the requests served within a certain time (ms)
+  50%   2859
+  66%   3148
+  75%   3421
+  80%   3541
+  90%   4107
+  95%   4639
+  98%   5361
+  99%   5756
+ 100%  11806 (longest request)
+
+
+
+
+
+
+
+
+Server Software:        Google
+Server Hostname:        www.haggle-test1.appspot.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1/SSLv3,RC4-SHA,1024,128
+
+Document Path:          /api/vendors/search
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   601.942 seconds
+Complete requests:      200
+Failed requests:        200
+   (Connect: 0, Receive: 0, Length: 200, Exceptions: 0)
+Write errors:           0
+Total transferred:      1341000 bytes
+HTML transferred:       1308800 bytes
+Requests per second:    0.33 [#/sec] (mean)
+Time per request:       3009.712 [ms] (mean)
+Time per request:       3009.712 [ms] (mean, across all concurrent requests)
+Transfer rate:          2.18 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      660 1491 649.8   1420    6307
+Processing:   586 1518 533.6   1470    3403
+Waiting:      578 1484 514.2   1441    3392
+Total:       1397 3008 866.9   2925    7839
+
+Percentage of the requests served within a certain time (ms)
+  50%   2925
+  66%   3214
+  75%   3408
+  80%   3614
+  90%   3972
+  95%   4485
+  98%   5502
+  99%   5950
+ 100%   7839 (longest request)
+
+
+
+
+
+
+
+
+
+
+
+
+Server Software:        Google
+Server Hostname:        www.haggle-test1.appspot.com
+Server Port:            443
+SSL/TLS Protocol:       TLSv1/SSLv3,RC4-SHA,1024,128
+
+Document Path:          /api/vendors/search
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   602.180 seconds
+Complete requests:      200
+Failed requests:        200
+   (Connect: 0, Receive: 0, Length: 200, Exceptions: 0)
+Write errors:           0
+Total transferred:      1343200 bytes
+HTML transferred:       1311000 bytes
+Requests per second:    0.33 [#/sec] (mean)
+Time per request:       3010.900 [ms] (mean)
+Time per request:       3010.900 [ms] (mean, across all concurrent requests)
+Transfer rate:          2.18 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:      477 1473 801.4   1338   10239
+Processing:   507 1537 604.6   1433    4687
+Waiting:      499 1490 547.6   1403    3693
+Total:       1400 3010 1045.6   2868   12002
+
+Percentage of the requests served within a certain time (ms)
+  50%   2868
+  66%   3227
+  75%   3367
+  80%   3488
+  90%   3849
+  95%   4631
+  98%   5799
+  99%   6550
+ 100%  12002 (longest request)
